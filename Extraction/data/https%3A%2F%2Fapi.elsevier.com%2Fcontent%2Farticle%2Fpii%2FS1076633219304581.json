@@ -1,0 +1,94 @@
+{
+  "coredata": 
+  {
+    "prism:url": "https://api.elsevier.com/content/article/pii/S1076633219304581",
+    "dc:identifier": "doi:10.1016/j.acra.2019.10.001",
+    "eid": "1-s2.0-S1076633219304581",
+    "prism:doi": "10.1016/j.acra.2019.10.001",
+    "pii": "S1076-6332(19)30458-1",
+    "dc:title": "Artificial Intelligence in Medicine: Where Are We Now? ",
+    "prism:publicationName": "Academic Radiology",
+    "prism:aggregationType": "Journal",
+    "pubType": "\n               Special Review\n            ",
+    "prism:issn": "10766332",
+    "prism:volume": "27",
+    "prism:issueIdentifier": "1",
+    "prism:startingPage": "62",
+    "prism:endingPage": "70",
+    "prism:pageRange": "62-70",
+    "prism:number": "1",
+    "dc:format": "application/json",
+    "prism:coverDate": "2020-01-31",
+    "prism:coverDisplayDate": "January 2020",
+    "prism:copyright": "\u00a9 2019 The Association of University Radiologists. Published by Elsevier Inc. All rights reserved.",
+    "prism:publisher": "The Association of University Radiologists. Published by Elsevier Inc.",
+    "prism:issueName": "Special Issue: Artificial Intelligence",
+    "dc:creator": [
+      {
+        "@_fa": "true",
+        "$": "Kulkarni, Sagar"
+      },
+      {
+        "@_fa": "true",
+        "$": "Seneviratne, Nuran"
+      },
+      {
+        "@_fa": "true",
+        "$": "Baig, Mirza Shaheer"
+      },
+      {
+        "@_fa": "true",
+        "$": "Khan, Ameer Hamid Ahmed"
+      }
+    ],
+    "dc:description": "\n               \n                  Artificial intelligence in medicine has made dramatic progress in recent years. However, much of this progress is seemingly scattered, lacking a cohesive structure for the discerning observer. In this article, we will provide an up-to-date review of artificial intelligence in medicine, with a specific focus on its application to radiology, pathology, ophthalmology, and dermatology. We will discuss a range of selected papers that illustrate the potential uses of artificial intelligence in a technologically advanced future.\n               \n            ",
+    "openaccess": "0",
+    "openaccessArticle": false,
+    "openaccessType": null,
+    "openArchiveArticle": false,
+    "openaccessSponsorName": null,
+    "openaccessSponsorType": null,
+    "openaccessUserLicense": null,
+    "dcterms:subject": [
+      {
+        "@_fa": "true",
+        "$": "Artificial intelligence"
+      },
+      {
+        "@_fa": "true",
+        "$": "Deep learning"
+      },
+      {
+        "@_fa": "true",
+        "$": "Radiology"
+      },
+      {
+        "@_fa": "true",
+        "$": "Pathology"
+      },
+      {
+        "@_fa": "true",
+        "$": "Ophthalmology"
+      },
+      {
+        "@_fa": "true",
+        "$": "Dermatology"
+      },
+      {
+        "@_fa": "true",
+        "$": "Review"
+      }
+    ],
+    "link": [
+      {
+        "@href": "https://api.elsevier.com/content/article/pii/S1076633219304581",
+        "@rel": "self",
+        "@_fa": "true"
+      },
+      {
+        "@href": "https://www.sciencedirect.com/science/article/pii/S1076633219304581",
+        "@rel": "scidir",
+        "@_fa": "true"
+      }
+    ]
+  }, "scopus-id": "85073812004", "scopus-eid": "2-s2.0-85073812004", "pubmed-id": "31636002", "link": {"@href": "https://api.elsevier.com/content/abstract/scopus_id/85073812004", "@rel": "abstract"}, "originalText": {"xocs:doc": {"xocs:meta": {"xocs:open-access": {"xocs:oa-article-status": {"@is-open-access": "0", "@is-open-archive": "0"}}, "xocs:available-online-date": {"@yyyymmdd": "20191019", "$": "2019-10-19"}}}}}

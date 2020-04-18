@@ -1,0 +1,505 @@
+2020-04-17 10:44:32,562 - elsapy.elsclient - INFO - Module loaded.
+2020-04-17 10:44:38,182 - elsapy.elsentity - INFO - Module loaded.
+2020-04-17 10:44:38,183 - elsapy.utils - INFO - Module loaded.
+2020-04-17 10:44:38,183 - elsapy.elsprofile - INFO - Module loaded.
+2020-04-17 10:44:38,184 - elsapy.elsdoc - INFO - Module loaded.
+2020-04-17 10:44:38,185 - elsapy.elssearch - INFO - Module loaded.
+2020-04-17 10:50:10,945 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6
+2020-04-17 10:50:11,895 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6
+2020-04-17 10:50:11,904 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6 to file
+2020-04-17 10:55:53,762 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6 to file
+2020-04-17 11:38:03,496 - elsapy.elsclient - INFO - Module loaded.
+2020-04-17 11:38:04,161 - elsapy.elsentity - INFO - Module loaded.
+2020-04-17 11:38:04,163 - elsapy.utils - INFO - Module loaded.
+2020-04-17 11:38:04,164 - elsapy.elsprofile - INFO - Module loaded.
+2020-04-17 11:38:04,165 - elsapy.elsdoc - INFO - Module loaded.
+2020-04-17 11:38:04,167 - elsapy.elssearch - INFO - Module loaded.
+2020-04-17 11:38:12,570 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6
+2020-04-17 11:38:23,610 - elsapy.elsentity - WARNING - HTTPSConnectionPool(host='api.elsevier.com', port=443): Max retries exceeded with url: /content/article/doi/10.1016/S0933-3657(01)00089-6 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000016F1E290CF8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2020-04-17 11:39:04,643 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6
+2020-04-17 11:39:05,602 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6
+2020-04-17 11:39:05,606 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6 to file
+2020-04-17 11:39:11,883 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=artificial+intelligence+in+medicine
+2020-04-17 11:39:12,688 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 11:43:41,876 - elsapy.elsclient - INFO - Sending GET request to S1076633219304581
+2020-04-17 11:43:41,877 - elsapy.elsentity - WARNING - Invalid URL 'S1076633219304581': No schema supplied. Perhaps you meant http://S1076633219304581?
+2020-04-17 11:43:41,878 - elsapy.elsclient - INFO - Sending GET request to S1052515720300118
+2020-04-17 11:43:41,879 - elsapy.elsentity - WARNING - Invalid URL 'S1052515720300118': No schema supplied. Perhaps you meant http://S1052515720300118?
+2020-04-17 11:43:41,880 - elsapy.elsclient - INFO - Sending GET request to S027263861930842X
+2020-04-17 11:43:41,881 - elsapy.elsentity - WARNING - Invalid URL 'S027263861930842X': No schema supplied. Perhaps you meant http://S027263861930842X?
+2020-04-17 11:43:41,881 - elsapy.elsclient - INFO - Sending GET request to S2452318620300192
+2020-04-17 11:43:41,882 - elsapy.elsentity - WARNING - Invalid URL 'S2452318620300192': No schema supplied. Perhaps you meant http://S2452318620300192?
+2020-04-17 11:43:41,883 - elsapy.elsclient - INFO - Sending GET request to S2352340919312491
+2020-04-17 11:43:41,883 - elsapy.elsentity - WARNING - Invalid URL 'S2352340919312491': No schema supplied. Perhaps you meant http://S2352340919312491?
+2020-04-17 11:43:41,884 - elsapy.elsclient - INFO - Sending GET request to S0737080620300642
+2020-04-17 11:43:41,884 - elsapy.elsentity - WARNING - Invalid URL 'S0737080620300642': No schema supplied. Perhaps you meant http://S0737080620300642?
+2020-04-17 11:43:41,884 - elsapy.elsclient - INFO - Sending GET request to S0889858819300966
+2020-04-17 11:43:41,885 - elsapy.elsentity - WARNING - Invalid URL 'S0889858819300966': No schema supplied. Perhaps you meant http://S0889858819300966?
+2020-04-17 11:43:41,886 - elsapy.elsclient - INFO - Sending GET request to S0846537119300063
+2020-04-17 11:43:41,886 - elsapy.elsentity - WARNING - Invalid URL 'S0846537119300063': No schema supplied. Perhaps you meant http://S0846537119300063?
+2020-04-17 11:43:41,887 - elsapy.elsclient - INFO - Sending GET request to S0303846720300615
+2020-04-17 11:43:41,887 - elsapy.elsentity - WARNING - Invalid URL 'S0303846720300615': No schema supplied. Perhaps you meant http://S0303846720300615?
+2020-04-17 11:43:41,887 - elsapy.elsclient - INFO - Sending GET request to S0009912018311974
+2020-04-17 11:43:41,887 - elsapy.elsentity - WARNING - Invalid URL 'S0009912018311974': No schema supplied. Perhaps you meant http://S0009912018311974?
+2020-04-17 11:43:41,888 - elsapy.elsclient - INFO - Sending GET request to S0960977620300096
+2020-04-17 11:43:41,888 - elsapy.elsentity - WARNING - Invalid URL 'S0960977620300096': No schema supplied. Perhaps you meant http://S0960977620300096?
+2020-04-17 11:43:41,889 - elsapy.elsclient - INFO - Sending GET request to S2211883718301758
+2020-04-17 11:43:41,889 - elsapy.elsentity - WARNING - Invalid URL 'S2211883718301758': No schema supplied. Perhaps you meant http://S2211883718301758?
+2020-04-17 11:43:41,890 - elsapy.elsclient - INFO - Sending GET request to S074906902030029X
+2020-04-17 11:43:41,890 - elsapy.elsentity - WARNING - Invalid URL 'S074906902030029X': No schema supplied. Perhaps you meant http://S074906902030029X?
+2020-04-17 11:43:41,891 - elsapy.elsclient - INFO - Sending GET request to S2095809920300035
+2020-04-17 11:43:41,891 - elsapy.elsentity - WARNING - Invalid URL 'S2095809920300035': No schema supplied. Perhaps you meant http://S2095809920300035?
+2020-04-17 11:43:41,893 - elsapy.elsclient - INFO - Sending GET request to S2589238X20300127
+2020-04-17 11:43:41,893 - elsapy.elsentity - WARNING - Invalid URL 'S2589238X20300127': No schema supplied. Perhaps you meant http://S2589238X20300127?
+2020-04-17 11:43:41,893 - elsapy.elsclient - INFO - Sending GET request to S1001929419300288
+2020-04-17 11:43:41,894 - elsapy.elsentity - WARNING - Invalid URL 'S1001929419300288': No schema supplied. Perhaps you meant http://S1001929419300288?
+2020-04-17 11:43:41,894 - elsapy.elsclient - INFO - Sending GET request to S0720048X19304243
+2020-04-17 11:43:41,895 - elsapy.elsentity - WARNING - Invalid URL 'S0720048X19304243': No schema supplied. Perhaps you meant http://S0720048X19304243?
+2020-04-17 11:43:41,895 - elsapy.elsclient - INFO - Sending GET request to S2001037020300325
+2020-04-17 11:43:41,897 - elsapy.elsentity - WARNING - Invalid URL 'S2001037020300325': No schema supplied. Perhaps you meant http://S2001037020300325?
+2020-04-17 11:43:41,897 - elsapy.elsclient - INFO - Sending GET request to S1473050218301721
+2020-04-17 11:43:41,897 - elsapy.elsentity - WARNING - Invalid URL 'S1473050218301721': No schema supplied. Perhaps you meant http://S1473050218301721?
+2020-04-17 11:43:41,898 - elsapy.elsclient - INFO - Sending GET request to S0022073619307046
+2020-04-17 11:43:41,898 - elsapy.elsentity - WARNING - Invalid URL 'S0022073619307046': No schema supplied. Perhaps you meant http://S0022073619307046?
+2020-04-17 11:43:41,898 - elsapy.elsclient - INFO - Sending GET request to S1076633219304428
+2020-04-17 11:43:41,899 - elsapy.elsentity - WARNING - Invalid URL 'S1076633219304428': No schema supplied. Perhaps you meant http://S1076633219304428?
+2020-04-17 11:43:41,899 - elsapy.elsclient - INFO - Sending GET request to S235208171930193X
+2020-04-17 11:43:41,899 - elsapy.elsentity - WARNING - Invalid URL 'S235208171930193X': No schema supplied. Perhaps you meant http://S235208171930193X?
+2020-04-17 11:43:41,899 - elsapy.elsclient - INFO - Sending GET request to S1532046419302308
+2020-04-17 11:43:41,899 - elsapy.elsentity - WARNING - Invalid URL 'S1532046419302308': No schema supplied. Perhaps you meant http://S1532046419302308?
+2020-04-17 11:43:41,899 - elsapy.elsclient - INFO - Sending GET request to S0378378220301481
+2020-04-17 11:43:41,900 - elsapy.elsentity - WARNING - Invalid URL 'S0378378220301481': No schema supplied. Perhaps you meant http://S0378378220301481?
+2020-04-17 11:43:41,900 - elsapy.elsclient - INFO - Sending GET request to S0303846720300755
+2020-04-17 11:43:41,900 - elsapy.elsentity - WARNING - Invalid URL 'S0303846720300755': No schema supplied. Perhaps you meant http://S0303846720300755?
+2020-04-17 11:45:07,940 - elsapy.elsclient - INFO - Sending GET request to S1076633219304581
+2020-04-17 11:45:07,940 - elsapy.elsentity - WARNING - Invalid URL 'S1076633219304581': No schema supplied. Perhaps you meant http://S1076633219304581?
+2020-04-17 11:45:07,941 - elsapy.elsclient - INFO - Sending GET request to S1052515720300118
+2020-04-17 11:45:07,942 - elsapy.elsentity - WARNING - Invalid URL 'S1052515720300118': No schema supplied. Perhaps you meant http://S1052515720300118?
+2020-04-17 11:45:07,943 - elsapy.elsclient - INFO - Sending GET request to S027263861930842X
+2020-04-17 11:45:07,944 - elsapy.elsentity - WARNING - Invalid URL 'S027263861930842X': No schema supplied. Perhaps you meant http://S027263861930842X?
+2020-04-17 11:45:07,944 - elsapy.elsclient - INFO - Sending GET request to S2452318620300192
+2020-04-17 11:45:07,945 - elsapy.elsentity - WARNING - Invalid URL 'S2452318620300192': No schema supplied. Perhaps you meant http://S2452318620300192?
+2020-04-17 11:45:07,945 - elsapy.elsclient - INFO - Sending GET request to S2352340919312491
+2020-04-17 11:45:07,945 - elsapy.elsentity - WARNING - Invalid URL 'S2352340919312491': No schema supplied. Perhaps you meant http://S2352340919312491?
+2020-04-17 11:45:07,946 - elsapy.elsclient - INFO - Sending GET request to S0737080620300642
+2020-04-17 11:45:07,946 - elsapy.elsentity - WARNING - Invalid URL 'S0737080620300642': No schema supplied. Perhaps you meant http://S0737080620300642?
+2020-04-17 11:45:07,946 - elsapy.elsclient - INFO - Sending GET request to S0889858819300966
+2020-04-17 11:45:07,947 - elsapy.elsentity - WARNING - Invalid URL 'S0889858819300966': No schema supplied. Perhaps you meant http://S0889858819300966?
+2020-04-17 11:45:07,947 - elsapy.elsclient - INFO - Sending GET request to S0846537119300063
+2020-04-17 11:45:07,948 - elsapy.elsentity - WARNING - Invalid URL 'S0846537119300063': No schema supplied. Perhaps you meant http://S0846537119300063?
+2020-04-17 11:45:07,948 - elsapy.elsclient - INFO - Sending GET request to S0303846720300615
+2020-04-17 11:45:07,949 - elsapy.elsentity - WARNING - Invalid URL 'S0303846720300615': No schema supplied. Perhaps you meant http://S0303846720300615?
+2020-04-17 11:45:07,949 - elsapy.elsclient - INFO - Sending GET request to S0009912018311974
+2020-04-17 11:45:07,949 - elsapy.elsentity - WARNING - Invalid URL 'S0009912018311974': No schema supplied. Perhaps you meant http://S0009912018311974?
+2020-04-17 11:45:07,950 - elsapy.elsclient - INFO - Sending GET request to S0960977620300096
+2020-04-17 11:45:07,950 - elsapy.elsentity - WARNING - Invalid URL 'S0960977620300096': No schema supplied. Perhaps you meant http://S0960977620300096?
+2020-04-17 11:45:07,951 - elsapy.elsclient - INFO - Sending GET request to S2211883718301758
+2020-04-17 11:45:07,951 - elsapy.elsentity - WARNING - Invalid URL 'S2211883718301758': No schema supplied. Perhaps you meant http://S2211883718301758?
+2020-04-17 11:45:07,952 - elsapy.elsclient - INFO - Sending GET request to S074906902030029X
+2020-04-17 11:45:07,952 - elsapy.elsentity - WARNING - Invalid URL 'S074906902030029X': No schema supplied. Perhaps you meant http://S074906902030029X?
+2020-04-17 11:45:07,952 - elsapy.elsclient - INFO - Sending GET request to S2095809920300035
+2020-04-17 11:45:07,953 - elsapy.elsentity - WARNING - Invalid URL 'S2095809920300035': No schema supplied. Perhaps you meant http://S2095809920300035?
+2020-04-17 11:45:07,953 - elsapy.elsclient - INFO - Sending GET request to S2589238X20300127
+2020-04-17 11:45:07,954 - elsapy.elsentity - WARNING - Invalid URL 'S2589238X20300127': No schema supplied. Perhaps you meant http://S2589238X20300127?
+2020-04-17 11:45:07,954 - elsapy.elsclient - INFO - Sending GET request to S1001929419300288
+2020-04-17 11:45:07,955 - elsapy.elsentity - WARNING - Invalid URL 'S1001929419300288': No schema supplied. Perhaps you meant http://S1001929419300288?
+2020-04-17 11:45:07,955 - elsapy.elsclient - INFO - Sending GET request to S0720048X19304243
+2020-04-17 11:45:07,956 - elsapy.elsentity - WARNING - Invalid URL 'S0720048X19304243': No schema supplied. Perhaps you meant http://S0720048X19304243?
+2020-04-17 11:45:07,956 - elsapy.elsclient - INFO - Sending GET request to S2001037020300325
+2020-04-17 11:45:07,956 - elsapy.elsentity - WARNING - Invalid URL 'S2001037020300325': No schema supplied. Perhaps you meant http://S2001037020300325?
+2020-04-17 11:45:07,956 - elsapy.elsclient - INFO - Sending GET request to S1473050218301721
+2020-04-17 11:45:07,957 - elsapy.elsentity - WARNING - Invalid URL 'S1473050218301721': No schema supplied. Perhaps you meant http://S1473050218301721?
+2020-04-17 11:45:07,957 - elsapy.elsclient - INFO - Sending GET request to S0022073619307046
+2020-04-17 11:45:07,957 - elsapy.elsentity - WARNING - Invalid URL 'S0022073619307046': No schema supplied. Perhaps you meant http://S0022073619307046?
+2020-04-17 11:45:07,958 - elsapy.elsclient - INFO - Sending GET request to S1076633219304428
+2020-04-17 11:45:07,958 - elsapy.elsentity - WARNING - Invalid URL 'S1076633219304428': No schema supplied. Perhaps you meant http://S1076633219304428?
+2020-04-17 11:45:07,958 - elsapy.elsclient - INFO - Sending GET request to S235208171930193X
+2020-04-17 11:45:07,959 - elsapy.elsentity - WARNING - Invalid URL 'S235208171930193X': No schema supplied. Perhaps you meant http://S235208171930193X?
+2020-04-17 11:45:07,959 - elsapy.elsclient - INFO - Sending GET request to S1532046419302308
+2020-04-17 11:45:07,959 - elsapy.elsentity - WARNING - Invalid URL 'S1532046419302308': No schema supplied. Perhaps you meant http://S1532046419302308?
+2020-04-17 11:45:07,960 - elsapy.elsclient - INFO - Sending GET request to S0378378220301481
+2020-04-17 11:45:07,960 - elsapy.elsentity - WARNING - Invalid URL 'S0378378220301481': No schema supplied. Perhaps you meant http://S0378378220301481?
+2020-04-17 11:45:07,961 - elsapy.elsclient - INFO - Sending GET request to S0303846720300755
+2020-04-17 11:45:07,961 - elsapy.elsentity - WARNING - Invalid URL 'S0303846720300755': No schema supplied. Perhaps you meant http://S0303846720300755?
+2020-04-17 11:45:40,014 - elsapy.elsclient - INFO - Sending GET request to S1076633219304581
+2020-04-17 11:45:40,014 - elsapy.elsentity - WARNING - Invalid URL 'S1076633219304581': No schema supplied. Perhaps you meant http://S1076633219304581?
+2020-04-17 11:45:40,014 - elsapy.elsclient - INFO - Sending GET request to S1052515720300118
+2020-04-17 11:45:40,015 - elsapy.elsentity - WARNING - Invalid URL 'S1052515720300118': No schema supplied. Perhaps you meant http://S1052515720300118?
+2020-04-17 11:45:40,015 - elsapy.elsclient - INFO - Sending GET request to S027263861930842X
+2020-04-17 11:45:40,016 - elsapy.elsentity - WARNING - Invalid URL 'S027263861930842X': No schema supplied. Perhaps you meant http://S027263861930842X?
+2020-04-17 11:45:40,016 - elsapy.elsclient - INFO - Sending GET request to S2452318620300192
+2020-04-17 11:45:40,017 - elsapy.elsentity - WARNING - Invalid URL 'S2452318620300192': No schema supplied. Perhaps you meant http://S2452318620300192?
+2020-04-17 11:45:40,017 - elsapy.elsclient - INFO - Sending GET request to S2352340919312491
+2020-04-17 11:45:40,017 - elsapy.elsentity - WARNING - Invalid URL 'S2352340919312491': No schema supplied. Perhaps you meant http://S2352340919312491?
+2020-04-17 11:45:40,017 - elsapy.elsclient - INFO - Sending GET request to S0737080620300642
+2020-04-17 11:45:40,017 - elsapy.elsentity - WARNING - Invalid URL 'S0737080620300642': No schema supplied. Perhaps you meant http://S0737080620300642?
+2020-04-17 11:45:40,017 - elsapy.elsclient - INFO - Sending GET request to S0889858819300966
+2020-04-17 11:45:40,018 - elsapy.elsentity - WARNING - Invalid URL 'S0889858819300966': No schema supplied. Perhaps you meant http://S0889858819300966?
+2020-04-17 11:45:40,018 - elsapy.elsclient - INFO - Sending GET request to S0846537119300063
+2020-04-17 11:45:40,018 - elsapy.elsentity - WARNING - Invalid URL 'S0846537119300063': No schema supplied. Perhaps you meant http://S0846537119300063?
+2020-04-17 11:45:40,018 - elsapy.elsclient - INFO - Sending GET request to S0303846720300615
+2020-04-17 11:45:40,019 - elsapy.elsentity - WARNING - Invalid URL 'S0303846720300615': No schema supplied. Perhaps you meant http://S0303846720300615?
+2020-04-17 11:45:40,019 - elsapy.elsclient - INFO - Sending GET request to S0009912018311974
+2020-04-17 11:45:40,020 - elsapy.elsentity - WARNING - Invalid URL 'S0009912018311974': No schema supplied. Perhaps you meant http://S0009912018311974?
+2020-04-17 11:45:40,020 - elsapy.elsclient - INFO - Sending GET request to S0960977620300096
+2020-04-17 11:45:40,020 - elsapy.elsentity - WARNING - Invalid URL 'S0960977620300096': No schema supplied. Perhaps you meant http://S0960977620300096?
+2020-04-17 11:45:40,021 - elsapy.elsclient - INFO - Sending GET request to S2211883718301758
+2020-04-17 11:45:40,021 - elsapy.elsentity - WARNING - Invalid URL 'S2211883718301758': No schema supplied. Perhaps you meant http://S2211883718301758?
+2020-04-17 11:45:40,022 - elsapy.elsclient - INFO - Sending GET request to S074906902030029X
+2020-04-17 11:45:40,022 - elsapy.elsentity - WARNING - Invalid URL 'S074906902030029X': No schema supplied. Perhaps you meant http://S074906902030029X?
+2020-04-17 11:45:40,022 - elsapy.elsclient - INFO - Sending GET request to S2095809920300035
+2020-04-17 11:45:40,023 - elsapy.elsentity - WARNING - Invalid URL 'S2095809920300035': No schema supplied. Perhaps you meant http://S2095809920300035?
+2020-04-17 11:45:40,023 - elsapy.elsclient - INFO - Sending GET request to S2589238X20300127
+2020-04-17 11:45:40,024 - elsapy.elsentity - WARNING - Invalid URL 'S2589238X20300127': No schema supplied. Perhaps you meant http://S2589238X20300127?
+2020-04-17 11:45:40,024 - elsapy.elsclient - INFO - Sending GET request to S1001929419300288
+2020-04-17 11:45:40,025 - elsapy.elsentity - WARNING - Invalid URL 'S1001929419300288': No schema supplied. Perhaps you meant http://S1001929419300288?
+2020-04-17 11:45:40,025 - elsapy.elsclient - INFO - Sending GET request to S0720048X19304243
+2020-04-17 11:45:40,025 - elsapy.elsentity - WARNING - Invalid URL 'S0720048X19304243': No schema supplied. Perhaps you meant http://S0720048X19304243?
+2020-04-17 11:45:40,026 - elsapy.elsclient - INFO - Sending GET request to S2001037020300325
+2020-04-17 11:45:40,026 - elsapy.elsentity - WARNING - Invalid URL 'S2001037020300325': No schema supplied. Perhaps you meant http://S2001037020300325?
+2020-04-17 11:45:40,027 - elsapy.elsclient - INFO - Sending GET request to S1473050218301721
+2020-04-17 11:45:40,027 - elsapy.elsentity - WARNING - Invalid URL 'S1473050218301721': No schema supplied. Perhaps you meant http://S1473050218301721?
+2020-04-17 11:45:40,027 - elsapy.elsclient - INFO - Sending GET request to S0022073619307046
+2020-04-17 11:45:40,027 - elsapy.elsentity - WARNING - Invalid URL 'S0022073619307046': No schema supplied. Perhaps you meant http://S0022073619307046?
+2020-04-17 11:45:40,028 - elsapy.elsclient - INFO - Sending GET request to S1076633219304428
+2020-04-17 11:45:40,028 - elsapy.elsentity - WARNING - Invalid URL 'S1076633219304428': No schema supplied. Perhaps you meant http://S1076633219304428?
+2020-04-17 11:45:40,028 - elsapy.elsclient - INFO - Sending GET request to S235208171930193X
+2020-04-17 11:45:40,029 - elsapy.elsentity - WARNING - Invalid URL 'S235208171930193X': No schema supplied. Perhaps you meant http://S235208171930193X?
+2020-04-17 11:45:40,029 - elsapy.elsclient - INFO - Sending GET request to S1532046419302308
+2020-04-17 11:45:40,029 - elsapy.elsentity - WARNING - Invalid URL 'S1532046419302308': No schema supplied. Perhaps you meant http://S1532046419302308?
+2020-04-17 11:45:40,029 - elsapy.elsclient - INFO - Sending GET request to S0378378220301481
+2020-04-17 11:45:40,030 - elsapy.elsentity - WARNING - Invalid URL 'S0378378220301481': No schema supplied. Perhaps you meant http://S0378378220301481?
+2020-04-17 11:45:40,030 - elsapy.elsclient - INFO - Sending GET request to S0303846720300755
+2020-04-17 11:45:40,030 - elsapy.elsentity - WARNING - Invalid URL 'S0303846720300755': No schema supplied. Perhaps you meant http://S0303846720300755?
+2020-04-17 11:46:06,986 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1076633219304581
+2020-04-17 11:46:07,963 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1076633219304581
+2020-04-17 11:46:07,975 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1076633219304581 to file
+2020-04-17 11:46:08,964 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1052515720300118
+2020-04-17 11:46:09,846 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1052515720300118
+2020-04-17 11:46:09,849 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1052515720300118 to file
+2020-04-17 11:46:10,847 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S027263861930842X
+2020-04-17 11:46:11,670 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S027263861930842X
+2020-04-17 11:46:11,676 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S027263861930842X to file
+2020-04-17 11:46:12,671 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S2452318620300192
+2020-04-17 11:46:13,533 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S2452318620300192
+2020-04-17 11:46:13,539 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S2452318620300192 to file
+2020-04-17 11:46:14,535 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S2352340919312491
+2020-04-17 11:46:15,354 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S2352340919312491
+2020-04-17 11:46:15,364 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S2352340919312491 to file
+2020-04-17 11:46:16,355 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0737080620300642
+2020-04-17 11:46:17,197 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0737080620300642
+2020-04-17 11:46:17,199 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0737080620300642 to file
+2020-04-17 11:46:18,199 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0889858819300966
+2020-04-17 11:46:18,969 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0889858819300966
+2020-04-17 11:46:18,973 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0889858819300966 to file
+2020-04-17 11:46:19,970 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0846537119300063
+2020-04-17 11:46:20,932 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0846537119300063
+2020-04-17 11:46:20,940 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0846537119300063 to file
+2020-04-17 11:46:21,932 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0303846720300615
+2020-04-17 11:46:22,996 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0303846720300615
+2020-04-17 11:46:22,997 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0303846720300615 to file
+2020-04-17 11:46:23,998 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0009912018311974
+2020-04-17 11:46:24,955 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0009912018311974
+2020-04-17 11:46:24,956 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0009912018311974 to file
+2020-04-17 11:46:25,957 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0960977620300096
+2020-04-17 11:46:26,926 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0960977620300096
+2020-04-17 11:46:26,943 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0960977620300096 to file
+2020-04-17 11:46:27,927 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S2211883718301758
+2020-04-17 11:46:28,840 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S2211883718301758
+2020-04-17 11:46:28,845 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S2211883718301758 to file
+2020-04-17 11:46:29,841 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S074906902030029X
+2020-04-17 11:46:30,592 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S074906902030029X
+2020-04-17 11:46:30,597 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S074906902030029X to file
+2020-04-17 11:46:31,594 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S2095809920300035
+2020-04-17 11:46:32,565 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S2095809920300035
+2020-04-17 11:46:32,567 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S2095809920300035 to file
+2020-04-17 11:46:33,565 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S2589238X20300127
+2020-04-17 11:46:34,548 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S2589238X20300127
+2020-04-17 11:46:34,554 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S2589238X20300127 to file
+2020-04-17 11:46:35,548 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1001929419300288
+2020-04-17 11:46:36,321 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1001929419300288
+2020-04-17 11:46:36,324 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1001929419300288 to file
+2020-04-17 11:46:37,322 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0720048X19304243
+2020-04-17 11:46:38,138 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0720048X19304243
+2020-04-17 11:46:38,143 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0720048X19304243 to file
+2020-04-17 11:46:39,139 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S2001037020300325
+2020-04-17 11:46:40,023 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S2001037020300325
+2020-04-17 11:46:40,028 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S2001037020300325 to file
+2020-04-17 11:46:41,024 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1473050218301721
+2020-04-17 11:46:41,765 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1473050218301721
+2020-04-17 11:46:41,768 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1473050218301721 to file
+2020-04-17 11:46:42,767 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0022073619307046
+2020-04-17 11:46:43,555 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0022073619307046
+2020-04-17 11:46:43,557 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0022073619307046 to file
+2020-04-17 11:46:44,556 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1076633219304428
+2020-04-17 11:46:45,371 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1076633219304428
+2020-04-17 11:46:45,384 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1076633219304428 to file
+2020-04-17 11:46:46,371 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S235208171930193X
+2020-04-17 11:46:47,809 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S235208171930193X
+2020-04-17 11:46:47,811 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S235208171930193X to file
+2020-04-17 11:46:48,811 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S1532046419302308
+2020-04-17 11:46:49,742 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S1532046419302308
+2020-04-17 11:46:49,744 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S1532046419302308 to file
+2020-04-17 11:46:50,743 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0378378220301481
+2020-04-17 11:46:51,460 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0378378220301481
+2020-04-17 11:46:51,469 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0378378220301481 to file
+2020-04-17 11:46:52,461 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/pii/S0303846720300755
+2020-04-17 11:46:53,205 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/pii/S0303846720300755
+2020-04-17 11:46:53,212 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/pii/S0303846720300755 to file
+2020-04-17 11:47:55,890 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/publicationName?query=artificial+intelligence+in+medicine
+2020-04-17 11:49:20,088 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=PUBLICATION-NAME%28artificial+intelligence+in+medicine%29
+2020-04-17 11:49:47,797 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=PUBLICATIONNAME%28artificial+intelligence+in+medicine%29
+2020-04-17 12:04:11,145 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=PUBLICATION%28artificial+intelligence+in+medicine%29
+2020-04-17 12:04:28,898 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=publication%28artificial+intelligence+in+medicine%29
+2020-04-17 12:04:55,333 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=publication%28artificial%2Bintelligence%2Bin%2Bmedicine%29
+2020-04-17 12:06:23,562 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=journal%28artificial%2Bintelligence%2Bin%2Bmedicine%29
+2020-04-17 12:06:47,510 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=journal%28artificial%2Bintelligence%2Bin%2Bmedicine%29
+2020-04-17 12:07:57,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=pub%28artificial%2Bintelligence%2Bin%2Bmedicine%29
+2020-04-17 12:08:08,889 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=pub%28artificial+intelligence+in+medicine%29
+2020-04-17 12:11:21,038 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/pub?query=artificial+intelligence+in+medicine
+2020-04-17 12:11:40,293 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=pub%3Dartificial+intelligence+in+medicine
+2020-04-17 12:12:34,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=pub%3Dartificial%2Bintelligence%2Bin%2Bmedicine
+2020-04-17 12:53:25,191 - elsapy.elsclient - INFO - Module loaded.
+2020-04-17 12:53:26,298 - elsapy.elsentity - INFO - Module loaded.
+2020-04-17 12:53:26,299 - elsapy.utils - INFO - Module loaded.
+2020-04-17 12:53:26,300 - elsapy.elsprofile - INFO - Module loaded.
+2020-04-17 12:53:26,302 - elsapy.elsdoc - INFO - Module loaded.
+2020-04-17 12:53:26,305 - elsapy.elssearch - INFO - Module loaded.
+2020-04-17 12:55:12,479 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=content-type%28JL%29+AND+src%28artificial%2Bintelligence%2Bin%2Bmedicine%29
+2020-04-17 12:55:23,998 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=content-type%28JL%29+AND+src%28artificial+intelligence+in+medicine%29
+2020-04-17 12:56:19,473 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29
+2020-04-17 12:56:42,399 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src-title%28artificial+intelligence+in+medicine%29
+2020-04-17 12:56:47,760 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=srctitle%28artificial+intelligence+in+medicine%29
+2020-04-17 13:16:12,446 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=content-type%28JL%29
+2020-04-17 13:16:45,475 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=content-type%28JL%29+AND+text%28artificial+intelligence%29
+2020-04-17 13:16:46,256 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:17:36,462 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=content-type%28JL%29+AND+src%28artificial+intelligence%29
+2020-04-17 13:20:09,196 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29
+2020-04-17 13:20:53,004 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+key%28ML%29
+2020-04-17 13:21:04,823 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%29
+2020-04-17 13:22:37,500 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+tak%28machine+learning%29
+2020-04-17 13:22:56,325 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28machine+learning%29
+2020-04-17 13:22:57,061 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:23:30,809 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28+%29
+2020-04-17 13:23:37,251 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28machine+learning%29
+2020-04-17 13:23:38,026 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:24:38,275 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2A%29
+2020-04-17 13:24:53,559 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Aa%2A%29
+2020-04-17 13:24:54,313 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:07,450 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:08,177 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:09,165 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:09,809 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:10,800 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:11,485 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:12,475 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:13,158 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:14,149 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:14,753 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:15,741 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:16,398 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:17,389 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:18,097 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:19,090 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:19,786 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:20,776 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:21,387 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:22,379 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:23,043 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:24,040 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:24,743 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:25,734 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:26,371 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:27,361 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:28,078 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:29,067 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:29,728 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:30,727 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:31,346 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:32,336 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:32,974 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:33,971 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:34,615 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:35,612 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:36,206 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:37,203 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:37,831 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:38,823 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:39,414 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:40,406 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:41,111 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:42,109 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:42,783 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:43,775 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:44,447 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:45,438 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:46,115 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:47,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:47,781 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:30:48,779 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:30:49,427 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:30,586 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:31,283 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:32,271 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:32,920 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:33,918 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:34,561 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:35,550 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:36,224 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:37,212 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:37,911 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:38,902 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:39,534 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:40,531 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:41,319 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:42,312 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:42,955 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:43,945 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:44,610 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:45,607 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:46,312 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:47,302 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:47,921 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:48,917 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:49,873 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:50,863 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:51,635 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:52,624 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:53,385 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:54,374 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:55,037 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:56,035 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:56,696 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:57,692 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:31:58,347 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:31:59,344 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:00,003 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:00,999 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:01,637 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:02,636 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:03,309 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:04,302 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:04,930 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:05,924 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:06,625 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:07,616 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:08,324 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:09,319 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:09,986 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:10,979 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:11,583 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:12,573 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:13,227 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:34,284 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:34,927 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:35,924 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:36,657 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:37,647 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:38,260 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:39,249 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:39,926 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:40,915 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:41,653 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:42,644 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:43,344 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:44,336 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:45,012 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:46,006 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:46,647 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:47,636 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:48,325 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:49,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:49,988 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:50,978 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:51,663 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:52,655 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:53,292 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:54,282 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:54,980 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:55,969 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:56,684 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:57,675 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:58,328 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:32:59,320 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:32:59,990 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:00,984 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:01,747 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:02,745 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:03,483 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:04,473 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:05,199 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:06,196 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:07,138 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:08,130 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:08,793 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:09,783 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:10,466 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:11,457 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:12,072 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:13,064 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:13,713 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:14,705 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:15,350 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:33:16,346 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:33:17,116 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:34:41,850 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:34:42,570 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:35:31,522 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6
+2020-04-17 13:35:32,699 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6
+2020-04-17 13:35:32,713 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/S0933-3657(01)00089-6 to file
+2020-04-17 13:36:28,539 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:36:29,195 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:37:54,671 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:37:55,414 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:21,588 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:22,328 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:23,316 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:23,975 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:24,964 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:25,582 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:26,571 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:27,202 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:28,193 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:28,856 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:29,845 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:30,494 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:31,489 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:32,154 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:33,146 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:33,758 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:34,747 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:35,404 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:36,399 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:37,026 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:38,024 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:38,647 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:39,637 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:41,293 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:42,283 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:42,913 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:43,901 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:44,655 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:45,642 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:46,284 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:47,273 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:47,924 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:48,912 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:49,530 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:50,523 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:51,196 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:52,186 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:52,817 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:53,810 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:54,473 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:55,460 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:56,152 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:57,150 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:57,790 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:42:58,787 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:42:59,415 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:43:00,413 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:43:01,049 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:43:02,046 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:43:02,708 - elsapy.utils - INFO - Converting prism:coverDate
+2020-04-17 13:43:03,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=src%28artificial+intelligence+in+medicine%29+AND+text%28%2Astr%2A%29
+2020-04-17 13:43:04,380 - elsapy.utils - INFO - Converting prism:coverDate
