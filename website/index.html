@@ -1,156 +1,17 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="js/echarts.js"></script>
-</head>
- 
-<body>
-<div id="main" style="width:800px;height:800px"></div>
-<script type="text/javascript">
-    var myChart = echarts.init(document.getElementById('main'));
-    var categories = [];
-    for (var i = 0; i < 5; i++) {
-        categories[i] = {
-            name: i
-        };
-    }
-    option = {
-        title: {
-            text: ''
-        },
-    
-        tooltip: {
-            formatter: function (x) {
-                return x.data.des;
-            }
-        },
-
-        toolbox: {
-
-            show: true,
-            feature: {
-                mark: {
-                    show: true
-                },
-
-                restore: {
-                    show: true
-                }
-            }
-        },
-        legend: [{
-            data: categories.map(function (a) {
-                return a.name;
-            })
-        }],
-        series: [{
-            type: 'graph', 
-            layout: 'force',
-            symbolSize: 30,
-            roam: true,
-            edgeSymbol: ['circle', 'arrow'],
-            edgeSymbolSize: [2, 10],
-            edgeLabel: {
-                normal: {
-                    textStyle: {
-                        fontSize: 20
-                    }
-                }
-            },
-            force: {
-                repulsion: 2500,
-                edgeLength: [10, 50]
-            },
-            draggable: true,
-            lineStyle: {
-                normal: {
-                    width: 2,
-                    color: '#4b565b',
-                }
-            },
-            edgeLabel: {
-                normal: {
-                    show: true,
-                    formatter: function (x) {
-                        return x.data.name;
-                    }
-                }
-            },
-            label: {
-                normal: {
-                    show: true,
-                    textStyle: {}
-                }
-            },
- 
-            data: [{
-                name: 'node01',
-                des: 'nodedes01',
-                symbolSize: 70,
-                category: 0,
-            }, {
-                name: 'node02',
-                des: 'nodedes02',
-                symbolSize: 50,
-                category: 1,
-            }, {
-                name: 'node03',
-                des: 'nodedes3',
-                symbolSize: 50,
-                category: 3,
-            }, {
-                name: 'node04',
-                des: 'nodedes04',
-                symbolSize: 50,
-                category: 1,
-            }, {
-                name: 'node05',
-                des: 'nodedes05',
-                symbolSize: 50,
-                category: 2,
-            }, {
-                name: 'node06',
-                des: 'nodedes06',
-                symbolSize: 50,
-                category: 2,
-            }],
-
-            links: [{
-                source: 'node01',
-                target: 'node02',
-                name: 'link01',
-                des: 'link01des'
-            }, {
-                source: 'node05',
-                target: 'node03',
-                name: 'link02',
-                des: 'link02des'
-            }, {
-                source: 'node01',
-                target: 'node04',
-                name: 'link03',
-                des: 'link03des'
-            }, {
-                source: 'node04',
-                target: 'node05',
-                name: 'link04',
-                des: 'link05des'
-            }, {
-                source: 'node05',
-                target: 'node06',
-                name: 'link05',
-                des: 'link06des'
-            }, {
-                source: 'node04',
-                target: 'node06',
-                name: 'link05',
-                des: 'link06des'
-            }],
-            categories: categories,
-        }]
-    };
-    myChart.setOption(option);
-</script>
-</body>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="favicon.ico">
+    <title>Vue练手</title>
+  <link href="js/0.js" rel="prefetch"><link href="js/app.js" rel="preload" as="script"><link href="js/chunk-vendors.js" rel="preload" as="script"></head>
+  <body>
+    <noscript>
+      <strong>We're sorry but vue-test doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  <script type="text/javascript" src="js/chunk-vendors.js"></script><script type="text/javascript" src="js/app.js"></script></body>
 </html>
