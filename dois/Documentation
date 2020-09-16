@@ -1,0 +1,6 @@
+I created files for each paper mentioned on PubMed.
+If there is no doi, the PubMed ID (pmid) was used and the documents are built as following:
+
+doi/pmid  ;  full-text-link1  ;  full-text-link2  ;  ...  ;  full-text-linkN  ;
+
+Everything is sperated by two spaces, a semicolon and two spaces
