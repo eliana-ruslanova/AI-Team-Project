@@ -1,0 +1,19 @@
+﻿regression;instance based;regularization ;decision tree;bayesian;clustering;association rule learning;artificial neural network;deepl learning;dimensionality reduction;ensemble algorithm
+Ordinary Least Squares Regression;k-Nearest Neighbor;Ridge Regression;Classification and Regression Tree;Naive Bayes;k-Means;Apriori algorithm;Perceptron;Convolutional Neural Network ;Principal Component Analysis ;Boosting
+Linear Regression;Learning Vector Quantization ;Least Absolute Shrinkage and Selection Operator;Iterative Dichotomiser 3 ;Gaussian Naive Bayes;k-Medians;Eclat algorithm;Multilayer Perceptrons ;Recurrent Neural Networks ;Principal Component Regression;Bootstrapped Aggregation
+Logistic Regression;Self-Organizing Map;Elastic Net;C4.5;Multinomial Naive Bayes;Expectation Maximisation;;Back-Propagation;Long Short-Term Memory Networks ;Partial Least Squares Regression;AdaBoost
+Stepwise Regression;Locally Weighted Learning ;Least-Angle Regression;Chi-squared Automatic Interaction Detection (CHAID);Averaged One-Dependence Estimators ;Hierarchical Clustering;;Stochastic Gradient Descent;Stacked Auto-Encoders;Sammon Mapping;Weighted Average 
+Multivariate Adaptive Regression Splines;Support Vector Machines ;LASSO;Decision Stump;Bayesian Belief Network;EM;;Hopfield Network;Deep Boltzmann Machine ;Multidimensional Scaling;Stacked Generalization
+Locally Estimated Scatterplot Smoothing;kNN;LARS;M5;Bayesian Network;;;Radial Basis Function Network ;Deep Belief Networks ;Projection Pursuit;Gradient Boosting Machines
+OLSR;LVQ;;Conditional Decision Trees;AODE;;;MLP;CNN;Linear Discriminant Analysis ;Gradient Boosted Regression Trees
+MARS;SOM;;CART;BBN;;;RBFN;RNNs;Mixture Discriminant Analysis ;Random Forest
+LOESS;LWL;;ID3;BN;;;;LSTMs;Quadratic Discriminant Analysis ;Bagging
+;SVM;;C5.0 ;;;;;DBM;Flexible Discriminant Analysis ;Blending
+;;;;;;;;DBN;PCA;Stacking
+;;;;;;;;;PCR;GBM
+;;;;;;;;;PLSR;GBRT
+;;;;;;;;;MDS;
+;;;;;;;;;LDA;
+;;;;;;;;;MDA;
+;;;;;;;;;QDA;
+;;;;;;;;;FDA;
