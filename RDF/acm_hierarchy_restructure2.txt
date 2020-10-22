@@ -1,0 +1,580 @@
+Algorithm
+Artificial intelligence | artificial intelligence, ai ,computational intelligence,algorithm,autonomous,automated,automatic,computer aided
+	Natural language processing | natural language processing, nlp 
+		Syntactic analysis | 
+		Grammar induction | grammar induction,grammar learning
+		Stemming | 
+		Lemmatization | 
+		Morphological segmentation | 
+		Part-of-speech tagging | part of speech tagging,pos tagging
+		Syntactic Parsing | 
+		Sentence boundary disambiguation | sentence boundary disambiguation,sentence breaking
+		Word segmentation | 
+		Terminology extraction | 
+		Semantic analysis | 
+		Lexical semantics | 
+		Distributional semantics | 
+		Machine Translation | 
+		Named entity recognition |  ner ,entity recognition
+		Natural language generation | natural language generation, nlg 
+		Question answering | 
+		Sentiment analysis | 
+		Topic segmentation | 
+		Word sense disambiguation | 
+		Ontology learning | 
+		Word embedding | 
+		Bag-of-words model | bag of words
+		Context recognition | 
+		Discourse, dialogue and pragmatics | 
+		Text summarization | 
+		Text mining | 
+		Text classification | 
+		Discourse analysis | 
+		Speech recognition |
+	Logic, knowledge representation and reasoning | rule based,logic,reasoning,knowledge representation
+		Rule-based reasoning | rule based
+		Hand-crafted rules | 
+		Proof theory | 
+		Modal and temporal logics | modal logic,temporal logic
+		Automated reasoning | 
+		Constraint and logic programming | constraint programming,logic programming
+		Constructive mathematics | 
+		Description logics | 
+		Equational logic and rewriting | equational logic
+		Finite Model Theory | 
+		Higher order logic | 
+		Linear logic | 
+		Programming logic | 
+		Verification by model checking | 
+		Type theory | 
+		Hoare logic | 
+		Separation logic | 
+		Semantic networks | 
+		Nonmonotonic, default reasoning and belief revision | nonmonotonic reasoning,default reasoning,belief revision
+		Probabilistic reasoning | 
+		Vagueness and fuzzy logic | fuzzy logic
+		Causal reasoning | 
+		Temporal reasoning | 
+		Cognitive robotics | 
+		Ontology engineering | 
+		Logic programming and answer set programming | logic programming,answer set programming
+		Spatial and physical reasoning | spatial reasoning,physical reasoning
+		Case-based reasoning | 
+		Constraint-based reasoning | 
+		Propositional logic | propositional logic,statement logic,sentential logic
+		First-order logic | first order logic,predicate logic,quantificational logic
+		Abductive reasoning | 
+		Analogical reasoning | 
+	Searching, planning and scheduling | search algorithm,automated planning,automated scheduling
+		Planning for deterministic actions | deterministic planning
+		State-space search | 
+		Forward search | 
+		Backward search | 
+		Heuristic search algorithms | heuristic search
+		Planning under uncertainty | non deterministic planning
+		Systematic nonlinear planning | systematic nonlinear planning, snlp 
+		Multi-agent planning | 
+		Robotic planning | 
+		Evolutionary robotics | 
+		Heuristic function construction | heuristic function
+		Discrete space search | 
+		Continuous space search | 
+		Randomized search | 
+		Tree search  | 
+	Distributed artificial intelligence | 
+		Multi-agent systems | 
+		Intelligent agents | 
+		Mobile agents | 
+		Cooperation and coordination | 
+		Parallel and distributed algorithms | parallel algorithm,distributed algorithm
+		MapReduce algorithms | 
+		Self-organization | 
+		Shared memory algorithms | 
+		Vector and streaming algorithms | vector algorithm,streaming algorithm
+		Massively parallel algorithms | 
+		Swarm intelligence | 
+		Ant colony optimization | 
+		Particle swarm optimization | 
+	Computer vision | computer vision,machine perception
+		Image recognition | 
+		Biometrics | 
+		Scene understanding | 
+		Activity recognition and understanding | activity recognition,activity understanding
+		Gesture recognition | 
+		Motion recognition | 			
+		Facial recognition  | 
+		Emotion detection | 
+		Video summarization | 
+		Visual content-based indexing and retrieval | visual content based indexing,visual content based retrieval
+		Visual inspection | 
+		Vision for robotics | robotic vision,robot vision,robot perception
+		Scene anomaly detection | 
+		Interest point and salient region detections | interest point detection,salient region detection
+		Image segmentation | image segmentation,automated segmentation
+		Image analysis | image analysis,image processing,image analytics
+		Video segmentation | 
+		Shape inference | 
+		Object detection and recognition | object detection,object identification,object recognition,obstacle recognition
+		Spatial recognition | 
+		Tracking | visual tracking,object tracking
+		Reconstruction | image reconstruction,3d reconstruction
+		Matching | image matching,feature matching,template matching
+	Machine learning | machine learning, ml ,learning algorithm,prediction algorithm,prediction model,knowledge aquisition,knowledge extraction
+		Learning paradigms | 
+		Supervised learning |  supervised learning,imitation learning
+		Learning to rank | learning to rank,machine learned ranking
+		Supervised learning by classification | classification, classifier
+		Multi-class classification | 
+		Regression | 
+		Structured outputs | 
+		Cost-sensitive learning | 
+		Unsupervised learning | unsupervised learning,self learning
+		Cluster analysis | cluster analysis,clustering
+		Anomaly detection | 
+		Mixture modeling | mixture model,mixed model
+		Topic modeling | 
+		Source separation | 
+		Motif discovery | 
+		Dimensionality reduction and manifold learning | dimensionality reduction,manifold learning
+		Semi-supervised learning | 
+		Reinforcement learning | 
+		Sequential decision making | 
+		Inverse reinforcement learning | 
+		Apprenticeship learning | 
+		Multi-agent reinforcement learning | 
+		Adversarial learning | 
+		Multi-task learning | 
+		Transfer learning | 
+		Lifelong machine learning | 
+		Learning under covariate shift | 
+		Deep learning | 
+		Machine learning approaches and algorithms | learning algorithm,learning model,learning approach
+		Classification and regression trees | classification algorithm,regression tree
+		Decision trees | 
+		Ensemble methods | ensemble
+		Boosting | 
+		Bagging | 
+		Random forest | 
+		Gradient boosting | 
+		k-nearest-neighbor algorithm | k nearest neighbor, k nn 
+		Perceptron algorithm | perceptron
+		Clustering algorithms | 
+		K-means |  k means
+		Density-based algorithms | 
+		DBSCAN | 
+		Hierarchical clustering | 
+		Agglomerative hierarchical clustering | agglomerative hierarchical clustering,agglomerative clustering
+		Divisive hierarchical clustering | divisive hierarchical clustering,divisive clustering
+		Kernel methods | 
+		Support vector machines | support vector, svm 
+		Gaussian processes | 
+		Gaussian naive bayes  | gaussian naive bayes,gaussian na ve bayes,gaussian naïve bayes
+		Artificial neural networks | neural network, nn , ann 
+		Autoencoder | 
+		Multilayer perceptron | 
+		Deep neural network  | deep neural network, dnn 
+		Deep belief network | 
+		Recurrent neural network | recurrent neural network, rnn 
+		Long short term memory network | long short term memory network, lstm 
+		Generative adversarial network | generative adversarial network, gan 
+		Convolutional neural network | convolutional neural network, cnn 
+		Self-organizing map | self organizing map, som 
+		Feed-forward neural network | feed forward neural network,constructive neural network
+		Spiking neural network | spiking neural network, snn 
+		Radial basis function network | radial basis function network,radial basis network,rbf network
+		Logical and relational learning | logical learning,relational learning
+		Inductive logic learning | inductive logic learning,inductive learning
+		Statistical relational learning | statistical relational learning,statistical learning
+		Association rule learning | association rule learning,association learning
+		Learning in probabilistic graphical models | learning graphical model
+		Maximum likelihood modeling | maximum likelihood
+		Maximum entropy modeling | maximum entropy
+		Maximum a posteriori modeling | maximum a posteriori
+		Latent variable models | latent variable
+		Bayesian network models | bayesian network,bayesian model
+		Naive bayes classifier | naive bayes classifier,na ve bayes classifier,naïve bayes classifier
+		Factorization methods | 
+		Non-negative matrix factorization | non negative matrix factorization,non-negative matrix approximation, nmf , nnmf 
+		Factor analysis | 
+		Principal component analysis | principal component analysis, pca 
+		Canonical correlation analysis | 
+		Latent Dirichlet allocation | 
+		Linear discriminant analysis | 
+		Rule learning | 
+		Instance-based learning | instance based learning,memory based learning
+		Bio-inspired approaches | 
+		Artificial life | 
+		Artificial immune system | 
+		Evolvable hardware | 
+		Genetic algorithms | 
+		Genetic programming | 
+		Evolutionary robotics | 
+		Generative and developmental approaches | generative approach,developmental approach
+		Dynamic programming for Markov decision processes | Markov decision process, mdp 
+		Multi-armed bandit algorithm | armed bandit
+		Value iteration | 
+		Q-learning | 
+		Policy iteration | 
+		Temporal difference learning | 
+		Approximate dynamic programming methods | 
+		Spectral methods | 
+		Feature engineering | 
+		Feature extraction | 
+		Feature projection | 
+		Feature learning | 
+		Feature selection | 
+		Regularization | 
+	Modeling and simulation | modeling,simulation
+		Model development and analysis | model development,model analysis
+		Modeling methodologies | 
+		Model verification and validation | model verification,model validation
+		Uncertainty quantification | 
+		Simulation types and techniques | simulation technique
+		Uncertainty quantification | 
+		Quantum mechanic simulation | 
+		Molecular simulation | 
+		Rare-event simulation | 
+		Discrete-event simulation | 
+		Agent and discrete models | agent model,discrete model
+		Distributed simulation | 
+		Continuous simulation | 
+		Continuous models | 
+		Real-time simulation | 
+		Interactive simulation | 
+		Multiscale systems | 
+		Massively parallel and high-performance simulations | massively parallel simulation,high-performance simulation
+		Data assimilation | 
+		Scientific visualization | 
+		Visual analytics | 
+		Simulation by animation | 
+		Artificial life | 
+	Mathematical algorithms and methods | mathematical
+		Symbolic and algebraic algorithms | 
+		Combinatorial algorithms | combinatorial
+		Algebraic algorithms | algebraic
+		Nonalgebraic algorithms | nonalgebraic
+		Symbolic calculus algorithms | symbolic calculus
+		Exact arithmetic algorithms | exact arithmetic
+		Hybrid symbolic-numeric methods | hybrid symbolic-numeric
+		Discrete calculus algorithms | discrete calculus
+		Number theory algorithms | number theory
+		Equation and inequality solving algorithms | equation solving,inequality solving
+		Linear algebra algorithms | linear algebra
+		Theorem proving algorithms | theorem proving
+		Boolean algebra algorithms | boolean algebra
+		Optimization algorithms | 
+		Graph theory | 
+		Trees | 
+		Hypergraphs | 
+		Random graphs | 
+		Graph coloring | 
+		Paths and connectivity problems | pathfinding,graph connect,graph search
+		Graph enumeration | 
+		Matchings and factors | graph matching,graph factors
+		Spectra of graphs | 
+		Extremal graph theory | 
+		Matroids and greedoids | matroid,greedoid
+		Graph algorithms | 
+		Approximation | graph approximation
+		Backpropagation | 
+		Graph algorithms analysis | 
+		Network flows | network flow,network graph
+		Sparsification and spanners | graph sparsification,graph spanner
+		Shortest paths | 
+		Dynamic graph algorithms | 
+		Probability and statistics | statistical analysis
+		Probabilistic representations | 
+		Bayesian networks | 
+		Markov networks | 
+		Factor graphs | 
+		Decision diagrams | 
+		Equational models | 
+		Causal networks | 
+		Stochastic differential equations | 
+		Autoregressive model | 
+		Nonparametric representations | 
+		Kernel density estimators | 
+		Spline models | 
+		Bayesian nonparametric models | 
+		Probabilistic inference problems | probabilistic inference
+		Maximum likelihood estimation | 
+		Bayesian computation | bayesian computation,bayesian analysis
+		Computing most probable explanation | 
+		Hypothesis testing and confidence interval computation | hypothesis testing,confidence interval computation
+		Density estimation | 
+		Quantile regression | 
+		Max marginal computation | 
+		Probabilistic reasoning algorithms | probabilistic reasoning
+		Variable elimination | 
+		Loopy belief propagation | 
+		Variational methods | 
+		Expectation maximization | 
+		Markov-chain Monte Carlo methods | markov chain monte carlo 
+		Gibbs sampling | 
+		Metropolis-Hastings algorithm | 
+		Simulated annealing | 
+		Markov-chain Monte Carlo convergence measures | markov chain monte carlo convergence
+		Sequential Monte Carlo methods | 
+		Kalman filters and hidden Markov models | kalman filter,hidden markov model
+		Resampling methods | 
+		Bootstrapping | 
+		Jackknifing | jackknif
+		Random number generation | random number generation, rng 
+		Probabilistic algorithms | 
+		Statistical paradigms | 
+		Queueing theory | 
+		Contingency table analysis | 
+		Regression analysis | 
+		Robust regression | 
+		Linear regression | 
+		Bayesian regression | 
+		Logistic Regression | 
+		Lasso regression | 
+		Poisson regression | 
+		Binomial regression | 
+		Time series analysis | 
+		Survival analysis | 
+		Cox proportional hazards model | cox regression,cox proportional hazards
+		Renewal theory | 
+		Statistical graphics | 
+		Exploratory data analysis | 
+		Nonparametric statistics | 
+		Distribution functions | 
+		Univariate statistics | univariate
+		Multivariate statistics | multivariate,multivariable
+		Mathematical software | 
+		Solvers | 
+		Statistical software | 
+		Mathematical analysis | 
+		Numerical analysis | 
+		Computation of transforms | transformation
+		Computations in finite fields | finite field
+		Computations on matrices | matrix,matrices						Computations on polynomials | gröbner bases,polynomial
+		Number-theoretic computations | 
+		Interpolation | 
+		Numerical differentiation | 
+		Interval arithmetic | 
+		Arbitrary-precision arithmetic | 
+		Automatic differentiation | 
+		Mesh generation | 
+		Discretization | 
+		Mathematical optimization | 
+		Discrete optimization | 
+		Network optimization | 
+		Optimization with randomized search heuristics | random optimization, randomized search heuristic
+		Simulated annealing | 
+		Evolutionary algorithms | evolutionary computation,evolutionary algorithm
+		Tabu search | 
+		Randomized local search | 
+		Hill climbing | 
+		Beam search | 
+		Continuous optimization | 
+		Dynamic programming | 
+		Linear programming | 
+		Semidefinite programming | 
+		Convex optimization | 
+		Quasiconvex programming and unimodality | quasiconvex programming,unimodality
+		Stochastic control and optimization | stochastic control, stochastic optimization
+		Quadratic programming | 
+		Nonconvex optimization | 
+		Bio-inspired optimization | 
+		Mixed discrete-continuous optimization | 
+		Submodular optimization and polymatroids | submodular optimization,polymatroids
+		Integer programming | 
+	Algorithmic game theory and mechanism design | game theory,mechanism design
+		Algorithmic game theory | game theory
+		Computation of equilibria | computation of equilibri,equilibria computation,equilibrium computation
+		Nash equilibria | nash equilibri
+		Quality of equilibria | Quality of equilibri,efficiency of equilibri
+		Algorithmic mechanism design | mechanism design
+		Social networks | social network,soial choice
+		Convergence and learning in games | convergence in game,learning in game
+		Market equilibria | market equilibri
+		Computational pricing and auctions | Computational pricing,computational auction
+		Network games | 
+		Network formation | 
+		Computational advertising theory | computational advertising
+	Information retrieval and data mining | information retrieval,data mining,big data,data science,data extraction
+		Data structures design and analysis | data analysis,data analytics
+		Data compression | 
+		Pattern matching | 
+		Sorting and searching | data sorting,data searching
+		Predecessor queries | 
+		Cell probe models and lower bounds | cell probe model,lower bounds
+		Database theory | 
+		Data exchange | 
+		Data provenance | 
+		Data modeling | 
+		Database query languages | 
+		Database constraints theory | 
+		Database interoperability | 
+		Data structures and algorithms for data management | data management
+		Database query processing and optimization | query processing,query optimization
+		Data integration | 
+		Logic and databases | 
+		Database privacy and security | database privacy, database security
+		Incomplete, inconsistent, and uncertain databases | incomplete database,inconsistent database,uncertain database
+		Information retrieval query processing | query processing
+		Query representation | 
+		Query intent | 
+		Query log analysis | 
+		Query suggestion | 
+		Query reformulation | 
+		Users and interactive retrieval | interactive retrieval
+		Personalization | personalized information retrieval
+		Task models | 
+		Search interfaces | 
+		Collaborative search | 
+		Retrieval models and ranking | retrieval model,ranking
+		Rank aggregation | 
+		Probabilistic retrieval models | probabilistic retrieval
+		Language models | 
+		Similarity measures | 
+		Learning to rank | 
+		Combination, fusion and federated search | federated search,data fusion,data combin
+		Information retrieval diversity | retrieval diversity
+		Top-k retrieval in databases | top k retrieval
+		Novelty in information retrieval | 
+		Retrieval tasks and goals | retrieval task,retrieval goal
+		Question answering | 
+		Document filtering | 
+		Recommender systems | 
+		Information extraction | 
+		Sentiment analysis | 
+		Expert search | 
+		Near-duplicate and plagiarism detection | near duplicate detection,plagiarism detection
+		Clustering | cluster
+		Classification | classifi
+		Summarization | text summar,document summar,data summar
+		Business intelligence | 
+		Evaluation of retrieval results | 
+		Test collections | 
+		Relevance assessment | 
+		Retrieval effectiveness | 
+		Retrieval efficiency | 
+		Presentation of retrieval results | 
+		Search engine architectures and scalability | search engine architecture,search engine scalability
+		Search engine indexing | 
+		Search index compression | 
+		Distributed retrieval | 
+		Peer-to-peer retrieval | 
+		Retrieval on mobile devices | 
+		Adversarial retrieval | 
+		Link and co-citation analysis | link analysis,citation analysis
+		Searching with auxiliary databases | auxiliary database
+		Specialized information retrieval | 
+		Structured and multilingual text search | 
+		Structured text search | 
+		Mathematics retrieval | 
+		Chemical and biochemical retrieval | chemical retrieval
+		Multilingual and cross-lingual retrieval | lingual retrieval
+		Multimedia and multimodal retrieval | multimedia retrieval,multimodal retrieval
+		Image search | image search,image retrieval
+		Video search | video search,video retrieval
+		Speech and audio search | speech search,audio search,speech retrieval,audio retrieval
+		Music retrieval | music retrieval,music search
+		Environment-specific retrieval | 
+		Enterprise search | 
+		Desktop search | 
+		Web mining | web mining,web retrieval
+		Site wrapping | 
+		Data extraction and integration | web data extraction,web data integration
+		Deep web | 
+		Surfacing | 
+		Search results deduplication | 
+		Web log analysis | 
+		Traffic analysis | 
+		Web crawling | 
+		Web indexing | 
+		Page and site ranking | page ranking,site ranking
+		Spam detection | 
+	Human-centred computing | 
+		Cognitive computing | 
+		Affective computing | 
+		Human computer interaction |  hci ,human machine interaction,human machine interface,human computer interface
+		Interaction paradigms | 
+		Hypertext and hypermedia | hypertext,hypermedia
+		Mixed and augmented reality | mixed reality,augmented reality
+		Command line interfaces | 
+		Graphical user interfaces | graphical user interface, gui 
+		Virtual reality | 
+		Virtual assistants | 
+		Chatbots | 
+		Question answering systems | question answering
+		Decision support systems | decision support,decision model
+		Expert systems | 
+		Web-based interaction | web based communication,web based interaction,online communication
+		Digital assistants | 
+		Natural language interfaces | 
+		Collaborative interaction | 
+		Interaction techniques | 
+		Auditory feedback | 
+		Text input | 
+		Pointing | 
+		Gestural input | gestural input,gesture input,gesture recognition
+		Ubiquitous and mobile computing | 
+		Ubiquitous and mobile computing theory, concepts and paradigms | 
+		Ubiquitous computing | ubiquitous,pervasive,mobile computing
+		Mobile computing | mobile computing,mobile app, smartphone app
+		Ambient intelligence | 
+		Internet-of-things | 
+		Location based services | 
+		Smart applications | smart
+		Smart city | 
+		Smart home | 
+		Smart device | 
+		Wearables | 
+	Embedded and cyber-physical systems | embedded,cyber physical
+		Sensors and actuators | sensor,actuator
+		Sensor data | 
+		Sensor networks | sensor network,sensor system
+		Sensor fusion | 
+		Robotics | robot
+		Robotic components | 
+		Robotic control | 
+		Evolutionary robotics | 
+		Robotic autonomy | autonomous robot,robotic autonomy
+		Brain-computer interfaces | brain computer interface, bci 
+		Neuroprosthetics | 
+		Robot-assisted surgery | robotic assisted,robot assisted
+		Autonomous vehicles | autonomous vehicle,self driving
+		Humanoid robots | 
+		System on a chip | 
+		Embedded systems | 
+		Firmware | 
+		Embedded hardware | 
+		Embedded software | 
+	Healthcare and medicine specific applications | 
+		Computational chemistry | 
+		Computational biology | 
+		Molecular sequence analysis | 
+		Molecular evolution | 
+		Biological networks | 
+		Molecular structural biology | 
+		Genetics and Genomics | genetic analysis,gene analysis,genome analysis,genetic model,genome interpretation
+		Proteomics | proteomic analysis,proteomic profiling,proteome profiling
+		Pathway analysis | 
+		Gene ontology analysis | gene ontology
+		Gene set enrichment analysis | enrichment analysis,gene ontology term enrichment
+		Gene expression profiling | gene profiling,genetic profiling,expression profiling,gene expression analysis,dna seq
+		Microarray analysis | 
+		Transcriptomics | transcriptomics,transcriptome profiling,transcriptomic profiling,transcriptome sequencing,transcriptomic analysis,transcriptome analysis
+		RNA sequencing |  rna seq, rna analysis]
+		miRNA sequencing | mirna seq,mirna analysis]
+		Whole genome sequencing | genome sequencing
+		Exome sequencing | 
+		High-throughput methods | high throughput
+		Long-read sequencing | 
+		Short-read sequencing | 
+		Gene prediction | gene prediction,genetic prediction
+		Polygenic score | polygenic score,polygenic risk score,polygenic risk prediction
+		Genotype-to-phenotype prediction | phenotype prediction
+		Phenotype-to-genotype mapping | genotype mapping
+		DNA annotation | dna annotation, genome annotation
+		Systems biology | 
+		Consumer health | 
+		Health care information systems | 
+		Health informatics | 
+		Bioinformatics | 
+		Bioengineering | 
+		Metabolomics and metabonomics | metabolomics,metabonomics
